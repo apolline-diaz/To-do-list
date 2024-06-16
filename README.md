@@ -1,8 +1,8 @@
 # To Do List App
 
-Une To do List pour gérer vos tâches.
+Une To do List pour gérer ses tâches.
 
-![to-do-list](https://github.com/apolline-diaz/to-do-list/assets/146845437/696a7f20-4ab0-43f4-9c65-246094caf164)
+![alt text](project-to-do-list.png)
 
 ## Technologies
 
